@@ -55,7 +55,13 @@ SQL                   ████████████████░░░�
 - GitHub Actions
 - Linux, Git
 - Pino (logging)
+  
+### 🎓 Continuous Learning
+- **275+ hours** of technical training completed (Dyma Academy)
+- **8 professional certifications**: Git, Python, Linux/Bash, Docker
+- **Mentored 80+ developers** in the community
 
+  
 ### 📫 How to Reach Me
 
 - 🔗 GitHub: [@nseaSeb](https://github.com/nseaSeb)
