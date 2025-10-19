@@ -73,7 +73,9 @@ SQL                   ████████████████░░░�
 - **[clientsetchatiments](https://github.com/nseaSeb/clientsetchatiments)**: CSV/XLS manipulation tools in Python
 
 ---
-
+🔍 Have you tried Perplexity's Comet browser?  
+I was pleasantly surprised by the AI approach:  
+[Discover Comet](https://pplx.ai/nseaprotec62526)
 <div align="center">
   
 *Thanks for visiting my profile! Feel free to explore my projects and get in touch.*
