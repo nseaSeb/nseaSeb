@@ -22,7 +22,9 @@ MIDI editor for Yamaha SY77/TG77/SY99 synthesizers
 - *14⭐ on GitHub*
 
 #### **[Gestiup]
-Invoicing software
+Invoicing softwares
+- Initial approach using Swift for a specific production requirement over several years. Then upgrade to Angular (since 2021).
+Then final approach
 - Built with **Elixir / Petal Pro
 - Tailwind CSS / Responsive
 - Multi-tenant Postgre (triplex)
@@ -49,6 +51,7 @@ SQL                   ████████████████░░░�
 - LiveView
 - HTML5/CSS3
 - Tailwind CSS
+- Angular
 
 **DevOps & Tools**
 - Docker, Docker Compose
