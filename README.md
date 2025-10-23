@@ -68,7 +68,7 @@ SQL                   ████████████████░░░�
 ### 📫 How to Reach Me
 
 - 🔗 GitHub: [@nseaSeb](https://github.com/nseaSeb)
-- 🌍 Location: Trizay, Nouvelle-Aquitaine, France 🇫🇷
+- 🌍 Location: [Trizay](https://www.google.fr/maps/place/Trizay/@45.8841595,-0.903584,13z/data=!3m1!4b1!4m6!3m5!1s0x4801157260739965:0x405d39260ee8cf0!8m2!3d45.882253!4d-0.896975!16s%2Fm%2F03mcl2c?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D), Nouvelle-Aquitaine, France 🇫🇷
 
 ### 🎯 Resources I've Created
 
