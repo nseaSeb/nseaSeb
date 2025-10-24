@@ -1,9 +1,10 @@
 # Hi, I'm Sébastien 👋
 
-**API Integration Developer and Customer Support**
+**API Integration Developer and API Customer Support**
 
 3 years debugging API integrations at Sellsy (3000+ issues resolved, 15 tickets/day, 98% customer satisfaction).
-
+Three years spent supporting API integrations at Sellsy have taught me one thing: most integration failures are predictable, optimizable, and avoidable.
+I am now ready to move from debugging other people's integrations to creating my own.
 I develop API integrations and connectors, and I share what I learn.
 
 ## 🔧 What I Do
@@ -12,13 +13,21 @@ I develop API integrations and connectors, and I share what I learn.
 - **Languages**: Elixir, Node.js, Python, JavaScript
 - **Tools**: Postman, Make, n8n,ActivePieces, Git, Docker
 
-## 📊 Experience
+## 💼 Professional Experience
 
-- **Sellsy** (2022-Present): Care API Representative 
-  - 3000+ API integrations debugged
-  - Average staff satisfaction rate: 98% customer satisfaction
-  - Developer integration import platform flatfile
-  - Chift connector support (accounting tools connection) 
+**Sellsy** (Feb 2022 - Present)
+
+**API Technical Support** (2023 - Present)
+- Support developers integrating with Sellsy API (15+ tickets/day, 3000+/year)
+- Average staff satisfaction rate: 98% customer satisfaction
+- Chift connector support (accounting tools connection)
+- Key accomplishments: Identification and documentation of undocumented API V1 models. Contribution to more comprehensive and clearer FAQs. 20% reduction in recurring issues thanks to improved documentation and time savings in customer responses, e.g., the FAQ explaining how to make a V1 call using OAuth V2 is the most frequently used.
+
+**Software Developer** (Feb 2022 - 2023)
+- Backend/Frontend debugging (PHP, JavaScript, jQuery, XSL)
+- Feature development (frontend)
+- Legacy code maintenance and refactoring
+- Developer integration import platform flatfile
 
 ## 🎓 Continuous Learning
 
@@ -50,10 +59,9 @@ Another repository related to Sellsy: example of using Activepieces automation. 
 
 
 ## 🛠️ Core Stack
-
-**Languages**: Elixir, Node.js, Python, JavaScript  
 **APIs**: REST, OAuth, Webhooks  
-**Tools**: Git, Docker, Make/n8n/ActivePieces  
+**Languages**: Elixir, Node.js, Python, JavaScript  
+**Tools**: Git, Docker, Make/n8n/ActivePieces, Ngrok
 **Databases**: PostgreSQL
 
 (+15 years coding across 10+ languages)
