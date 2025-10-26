@@ -51,6 +51,9 @@ This repository aims to build a reusable node.js project base for establishing c
 #### **[tuSellsyApiV2](https://github.com/nseaSeb/tuSellsyApiV2)
 Unit testing an API in Elixir: useful for showcasing your skills in integration, business testing, and Elixir in an API/B2B context — worth mentioning if you want to demonstrate your expertise in API robustness/back-testing.
 
+#### **[Fast webhook listener](https://github.com/nseaSeb/wh_sellsy)
+A super-fast Node.js microservice based on Fastify that listens to webhooks and pushes them into a Redis queue (via BullMQ) for asynchronous processing.
+
 #### **[Make_Filtered_rows](https://github.com/nseaSeb/Make_Filtered_rows)
 A concrete example of using the new Make module, which allows the use of JavaScript code. Here, filtering the sales lines of a Sellsy document get by API V2 to create a child document.
 
