@@ -68,6 +68,11 @@ Another repository related to Sellsy: example of using Activepieces automation. 
 **Databases**: PostgreSQL
 
 (+15 years coding across 10+ languages)
+
+## StackOverFlow: [@nseaSeb](https://stackoverflow.com/users/11767244/nseaprotector)
+28/10/2025
+<img width="358" height="169" alt="User_nseaprotector_-_Stack_Overflow" src="https://github.com/user-attachments/assets/d11cd7d2-b70b-486d-88c9-f1cac7422113" />
+
   
 ### 🎓 Continuous Learning
 - **275+ hours** of technical training completed (Dyma Academy)
