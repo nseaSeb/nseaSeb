@@ -13,6 +13,13 @@ I develop API integrations and connectors, and I share what I learn.
 - **Languages**: Elixir, Node.js, Python, JavaScript
 - **Tools**: Postman, Make, n8n,ActivePieces, Git, Docker
 
+### 🌱 Open Source Contributions
+
+[#-open-source-contributions](#-open-source-contributions)
+
+- **[postgrex](https://github.com/elixir-ecto/postgrex)** (Elixir/PostgreSQL driver, maintained by José Valim) — clarified Duration/interval decoding behavior in docs
+- **[cfonb](https://github.com/pennylane-hq/cfonb)** (Ruby, Pennylane) — fixed silent line-dropping bug in bank statement parser
+
 ## 💼 Professional Experience
 
 **Sellsy** (Feb 2022 - Present)
