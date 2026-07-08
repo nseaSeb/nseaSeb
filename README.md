@@ -15,11 +15,12 @@ I develop API integrations and connectors, and I share what I learn.
 
 ### 🌱 Open Source Contributions
 
-[#-open-source-contributions](#-open-source-contributions)
+### 🌱 Open Source Contributions
 
+- **[elixir](https://github.com/elixir-lang/elixir)** (the Elixir language itself, maintained by José Valim) — fixed misleading `IO.read/2` documentation
 - **[postgrex](https://github.com/elixir-ecto/postgrex)** (Elixir/PostgreSQL driver, maintained by José Valim) — clarified Duration/interval decoding behavior in docs
 - **[cfonb](https://github.com/pennylane-hq/cfonb)** (Ruby, Pennylane) — fixed silent line-dropping bug in bank statement parser
-
+  
 ## 💼 Professional Experience
 
 **Sellsy** (Feb 2022 - Present)
@@ -46,14 +47,12 @@ I'm a passionate developer focused on creating technical solutions and exploring
 
 ### 🔭 Current Projects
 
-#### **[Anasto](https://github.com/nseaSeb/anasto)** 🏗️
-Multi-tenant integration platform for B2B marketplaces
-This repository aims to build a reusable node.js project base for establishing connections between different APIs.
-- **Multi-tenant** architecture with PostgreSQL (1 schema/marketplace)
-- High-performance REST API with **Fastify** + **TypeScript**
-- Structured logging system with **Pino**
-- JWT authentication and permission management
-- *Actively under development - Contributions welcome!*
+#### **cfonb_ex** 🏗️
+
+Elixir library for parsing French CFONB bank statement format — no equivalent existed in the Elixir ecosystem.
+Building on lessons learned from fixing a parsing bug in the Ruby `cfonb` gem.
+
+- Fixed-width binary parsing using Elixir pattern matching
 
 #### **[tuSellsyApiV2](https://github.com/nseaSeb/tuSellsyApiV2)
 Unit testing an API in Elixir: useful for showcasing your skills in integration, business testing, and Elixir in an API/B2B context — worth mentioning if you want to demonstrate your expertise in API robustness/back-testing.
