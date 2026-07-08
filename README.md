@@ -46,12 +46,13 @@ I'm a passionate developer focused on creating technical solutions and exploring
 
 ### 🔭 Current Projects
 
-#### **cfonb_ex** 🏗️
+#### **[cfonb-elixir](https://github.com/nseaSeb/cfonb-elixir)** 🏗️
 
-Elixir library for parsing French CFONB bank statement format — no equivalent existed in the Elixir ecosystem.
-Building on lessons learned from fixing a parsing bug in the Ruby `cfonb` gem.
+Elixir library for parsing French CFONB bank files (relevés de compte) — the first of its kind in the Elixir ecosystem.
 
-- Fixed-width binary parsing using Elixir pattern matching
+- CFONB 120 statement parsing, amounts as `Decimal` (no float money)
+- Built in collaboration with Cloclo, inspired by lessons learned fixing the Ruby gem
+- Roadmap: CFONB 240, SEPA generation
 
 #### **[tuSellsyApiV2](https://github.com/nseaSeb/tuSellsyApiV2)
 Unit testing an API in Elixir: useful for showcasing your skills in integration, business testing, and Elixir in an API/B2B context — worth mentioning if you want to demonstrate your expertise in API robustness/back-testing.
