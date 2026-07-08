@@ -13,7 +13,6 @@ I develop API integrations and connectors, and I share what I learn.
 - **Languages**: Elixir, Node.js, Python, JavaScript
 - **Tools**: Postman, Make, n8n,ActivePieces, Git, Docker
 
-### 🌱 Open Source Contributions
 
 ### 🌱 Open Source Contributions
 
