@@ -1,6 +1,7 @@
 # Hi, I'm Sébastien 👋
 
 **API Integration Developer and API Customer Support**
+API Integration Developer and API Customer Support, currently deepening Elixir/Phoenix skills through open source contributions and building multi-tenant SaaS products.
 
 3 years debugging API integrations at Sellsy (3000+ issues resolved, 15 tickets/day, 98% customer satisfaction).
 Three years spent supporting API integrations at Sellsy have taught me one thing: most integration failures are predictable, optimizable, and avoidable.
@@ -16,8 +17,10 @@ I develop API integrations and connectors, and I share what I learn.
 
 ### 🌱 Open Source Contributions
 
-- **[elixir](https://github.com/elixir-lang/elixir)** (the Elixir language itself, maintained by José Valim) — fixed misleading `IO.read/2` documentation
-- **[postgrex](https://github.com/elixir-ecto/postgrex)** (Elixir/PostgreSQL driver, maintained by José Valim) — clarified Duration/interval decoding behavior in docs
+- **[elixir](https://github.com/elixir-lang/elixir)** (the Elixir language itself, maintained by José Valim)
+  - Fixed misleading `IO.read/2` documentation ([#15549](https://github.com/elixir-lang/elixir/pull/15549))
+  - Tightened `Enum.chunk_while/4` return type spec from `Enumerable.t()` to `[chunk]` to match implementation and docs ([#15552](https://github.com/elixir-lang/elixir/pull/15552))
+- **[postgrex](https://github.com/elixir-ecto/postgrex)** (Elixir/PostgreSQL driver, maintained by José Valim) — clarified Duration/interval decoding behavior in docs ([#779](https://github.com/elixir-ecto/postgrex/pull/779))
 - **[cfonb](https://github.com/pennylane-hq/cfonb)** (Ruby, Pennylane) — fixed silent line-dropping bug in bank statement parser
   
 ## 💼 Professional Experience
@@ -36,22 +39,14 @@ I develop API integrations and connectors, and I share what I learn.
 - Legacy code maintenance and refactoring
 - Developer integration import platform flatfile
 
-## 🎓 Continuous Learning
-
-- 275+ hours technical training (Dyma Academy)
-- 8 certifications: Git, Python, Linux, Docker
-- Mentored 80+ developers
-- StackOverflow contributor
-I'm a passionate developer focused on creating technical solutions and exploring new technologies.
-
 ### 🔭 Current Projects
 
-#### **[cfonb-elixir](https://github.com/nseaSeb/cfonb-elixir)** 🏗️
+#### **[cfonb](https://github.com/nseaSeb/cfonb-elixir)** 📦
 
 Elixir library for parsing French CFONB bank files (relevés de compte) — the first of its kind in the Elixir ecosystem.
 
 - CFONB 120 statement parsing, amounts as `Decimal` (no float money)
-- Built in collaboration with Cloclo, inspired by lessons learned fixing the Ruby gem
+- Published on [Hex](https://hex.pm/packages/cfonb) (v0.1.0)
 - Roadmap: CFONB 240, SEPA generation
 
 #### **[tuSellsyApiV2](https://github.com/nseaSeb/tuSellsyApiV2)
@@ -83,7 +78,7 @@ Another repository related to Sellsy: example of using Activepieces automation. 
 ### 🎓 Continuous Learning
 - **275+ hours** of technical training completed (Dyma Academy)
 - **8 professional certifications**: Git, Python, Linux/Bash, Docker
-- **Mentored 80+ developers** in the community
+
   
 ### 📫 How to Reach Me
 
@@ -96,11 +91,6 @@ Another repository related to Sellsy: example of using Activepieces automation. 
 - **[clientsetchatiments](https://github.com/nseaSeb/clientsetchatiments)**: CSV/XLS manipulation tools in Python
 - **[english_py](https://github.com/nseaSeb/english_py)**:Python script for my own use that I am happy to share. Enables voice output of classic English phrases and voice recognition for pronunciation practice.
 
-
----
-🔍 Have you tried Perplexity's Comet browser?  
-I was pleasantly surprised by the AI approach:  
-[Discover Comet](https://pplx.ai/nseaprotec62526)
 <div align="center">
 
 
