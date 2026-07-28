@@ -28,6 +28,9 @@ Merged contributions to core Elixir ecosystem projects:
 - **[search_ash](https://hex.pm/packages/search_ash)** — multilingual full-text search for Ash, using pre-stemmed tsvectors (~30 languages)
 - **[stemmers](https://hex.pm/packages/stemmers)** — Rust/Rustler NIF powering `search_ash`'s stemming
 - **[cfonb](https://hex.pm/packages/cfonb)** — Elixir library for parsing French CFONB bank statement files
+- **[facurX](https://hex.pm/packages/facturx)** — facturx — pure-Elixir toolkit for Factur-X/ZUGFeRD (Franco-German EN 16931 e-invoicing standard). v1 complete — generate, extract, parse, validate, all end-to-end tested (veraPDF-valid, XSD/Schematron-valid). Not yet published to Hex.
+- **[green_cal](https://hex.pm/packages/green_cal)** - green_cal — sun & moon ephemerides for agricultural calendars (Meeus' algorithms, pure Elixir, zero dependencies)
+  
 
 ## 🔭 Current Project
 
