@@ -1,10 +1,10 @@
 # Hi, I'm Sébastien 👋
 
-**API Integration Developer** & **Elixir/Phoenix Developer** — building production SaaS with Ash Framework, LiveView, and PostgreSQL.
+**Full Stack Developer — Elixir/Phoenix · JavaScript · PostgreSQL · SaaS . API Integration Developer**
 
 I spent 3 years on the other side of the API — debugging integrations, resolving 3000+ support tickets at Sellsy. That taught me exactly where systems break under real usage. Now I build them: contributing to the Elixir core language and the Ash ecosystem, and shipping a multi-tenant SaaS platform from scratch.
 
-🟢 **Open to work** — Elixir developer & API integration support roles, remote friendly. [Full CV](https://nseaseb.github.io/)
+🟢 **Open to work** — [Full CV](https://nseaseb.github.io/)
 
 ## 🔧 What I Do
 
@@ -12,6 +12,7 @@ I spent 3 years on the other side of the API — debugging integrations, resolvi
 - **Data**: PostgreSQL, multi-tenancy (Triplex), full-text search (tsvector/ts_rank)
 - **Infra**: Fly.io, Docker
 - **Other**: Rust (Rustler NIFs), API integration, OAuth/Webhooks
+- **Javascript**: Angular, Vue.js, Vanilla JS, Node, Express, Nest
 
 ## 🌱 Open Source
 
